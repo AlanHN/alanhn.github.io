@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoning Lan"
+title                    : "AlanHN's Site"
 title_separator          : "-"
 name                     : &name "Haoning Lan"
-description              : &description "personal description"
+description              : &description "My name is Haoning Lan"
 url                      : https://AlanHN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlanHN/AlanHN.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haoning Lan (蓝浩宁)"
-  avatar           : "profile.png"
+  name             : "Haoning Lan"
+  avatar           : "profile.jpg"
   bio              : "Senior student at SJTU"
-  location         : "Shanghai"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "546004464@qq.com"
+  email            : "sjtulhn@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
