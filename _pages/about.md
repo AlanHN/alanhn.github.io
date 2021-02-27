@@ -11,7 +11,7 @@ I am a senior student at Shanghai Jiao Tong University, China.
 
 Education and Experience
 
--[09.2018-06.2022] B.S., Software Engineering, Shanghai Jiao Tong University, China.
+- [09.2018-06.2022] B.S., Software Engineering, Shanghai Jiao Tong University, China.
 
 Honor and Awards
 
